@@ -1,0 +1,17 @@
+{
+    "name": "grasshoppermedia/oxid_modules_config",
+    "type": "oxid-module",
+    "description": "OXID Module Configuration Im-/Exporter module by OXID Professional Services",
+    "authors": [
+        {
+            "name": "OXID Professional Services",
+            "email": "info@oxid-esales.com",
+            "homepage": "http://www.oxid-esales.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "composer/installers": "1.0.*@dev"
+    }
+}
